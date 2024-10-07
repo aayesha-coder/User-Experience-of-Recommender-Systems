@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../sentiment_analysis/person_age"
+		}
+	],
+	"settings": {}
+}
